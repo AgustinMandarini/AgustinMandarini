@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Agustin Mandarini</h1>
 <h3 align="center">Soy programador Full Stack. Comence a estudiar programacion desde hace años y mi interes por el codigo fue aumentando gradualmente hasta convertirse en una pasio. Tengo 2+ años de experiencia desarrollando aplicaciones web completas, en stack javascript, y tambien utilizado frameworks en python. Te invito a conocer mis repositorios!!</h3>
-
+<br>
+<h3 align="center">I'm a Full Stack developer. I began studying programming years ago, and my interest in coding has been steadily growing until it became a passion. I have over 2 years of experience developing full web applications, using the JavaScript technology stack, and I've also worked with frameworks in Python. I invite you to check out my repositories!</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agustinmandarini" alt="agustinmandarini" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
