@@ -1,6 +1,10 @@
 # 💫 About Me:
 Soy programador Full Stack. Comence a estudiar programacion desde hace años y mi interes por el codigo fue aumentando gradualmente hasta convertirse en una pasio. Tengo 2+ años de experiencia desarrollando aplicaciones web completas, en stack javascript, y tambien utilizado frameworks en python. Te invito a conocer mis repositorios!<br>---------------------------------------------------------------------------------------------------------------------------------------<br>I'm a Full Stack developer. I began studying programming years ago, and my interest in coding has been steadily growing until it became a passion. I have over 2 years of experience developing full-fledged web applications, using the JavaScript technology stack, and I've also worked with frameworks in Python. I invite you to check out my repositories!
 
+Contacto / Contact Me:
+agustinmandarini47@gmail.com
++54911 39534746
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-mandarini-8a73a4225/) 
